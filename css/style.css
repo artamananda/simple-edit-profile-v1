@@ -1,0 +1,39 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+.profile-picture{
+    border-radius: 50%;
+    width: 250px;
+}
+
+.profile-name{
+    display: inline-block;
+}
+
+.verified{
+    width: 30px;
+    padding-left: 5px;
+    margin-bottom: 15px;
+    display: inline-block;
+}
+
+.bio{
+    margin: 0;
+    padding-bottom: 30px;
+    text-align: justify;
+}
+
+.social-media{
+    text-align: left;
+    display: inline-block;
+    margin: 0 5px;
+}
+
+.social-media a img{
+    width: 30px;
+}
